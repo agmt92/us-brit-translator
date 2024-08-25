@@ -34,6 +34,8 @@ module.exports = {
   "checking account": "current account",
   "cilantro": "coriander",
   "cleats": "football boots",
+  "cookie": "biscuit",
+  "cookie tray": "baking tray",
   "condo": "flat",
   "costume party": "fancy-dress party",
   "cotton candy": "candy floss",
